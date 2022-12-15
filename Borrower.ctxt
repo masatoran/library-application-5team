@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Borrower
+comment1.params=borrowerName
+comment1.target=Borrower(java.lang.String)
+comment2.params=borrowerName
+comment2.target=Borrower\ createBorrower(java.lang.String)
+comment3.params=
+comment3.target=void\ increaseTheNumberOfBooks()
+comment4.params=
+comment4.target=void\ decreaseTheNumberOfBooks()
+comment5.params=
+comment5.target=java.lang.String\ checkBorrower()
+comment6.params=borrower
+comment6.target=void\ storeBorrower(Borrower)
+numComments=7
